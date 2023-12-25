@@ -1,5 +1,7 @@
 ## 圣诞快乐
 
+缝合怪 试一试GitHub pages
+ 
 [效果预览](https://jwautumn.github.io/MerryChristmas/index)
 
 从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
